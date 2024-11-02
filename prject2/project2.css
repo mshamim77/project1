@@ -1,0 +1,267 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+          background: slategray;
+}
+.tamplet{
+    width: 960px;
+    margin: 0 auto;
+}
+.row1{
+    height: 60px;
+    background: white;
+    width:100%;
+}
+.top_header{
+}
+.mid{
+    margin: 0 auto;
+    width: 800px;
+}
+ .logo{
+    width: 30%;
+    float: left;
+ }
+ .logo h4{
+    font-size: 30px;
+    padding-top: 10px;
+ }
+.menu{
+    width: 70%;
+    float: left;
+}
+.menu ul{}
+.menu ul li{
+    display: inline-block;
+    margin-left: 34px;
+    padding: 23px 6px 15px 6px;
+    line-height: 22px;
+}
+
+.menu ul li:hover{
+    background: #0191A9;
+}
+.menu ul li a{
+    text-decoration: none;
+    color:aquamarine;
+
+}
+.row2{
+    width: 100%;
+    height: 254px;
+    background: #0092A9;
+    position: relative;
+}
+.top_banner{
+    position: relative;
+ 
+    margin: 0 auto;
+    width: 800px;
+}
+.left_banner {
+    width: 34%;
+    float: left;
+    color: white;
+    margin-top: 114px;
+    position: absolute;
+    right: 525px;
+    bottom: -194px;
+}
+ 
+.left_banner h1 {
+    letter-spacing: 9px;
+}
+.left_banner p{
+
+}
+.right_banner {
+    width: 53%;
+    float: right;
+    position: absolute;
+    bottom: -257px;
+    
+}
+.right_banner img {
+    margin-top: 4px;
+    margin-left: 448px;
+    height: 246px;
+}
+    
+     
+.row3{
+    height: 120px;
+    background: #50AFC3;
+    width: 100%;
+
+}
+.banner_bottom{
+    padding: 35px;
+}
+.banner_bottom_left{
+    width: 60%;
+    float: left;
+}
+.banner_bottom_left p{}
+.banner_bottom_left p b {
+    text-transform:capitalize;
+}
+.banner_bottom_right{
+    width: 40%;
+    float: right;
+}
+.banner_bottom_right button {
+    background: #50AFC3;
+    border: 1px solid white;
+    color: white;
+    padding: 14px;
+    border-radius: 9px;
+    margin-left: 106px;
+    margin-top: -2px;
+}
+
+
+
+
+
+.row4{
+    height: 600px;
+    width: 100%;
+    background: white;
+}
+.news_part{}
+.news_top {
+      padding: 28px 0px 19px 0px;
+      text-align: center;
+    }
+    .news_top h1 {
+        color: #50AFC3;
+        letter-spacing: 3px;
+        font-size: 28px;
+        font-weight: 11;
+    }
+.news_top p {
+    padding-bottom: 16px;
+    line-height: 21px;
+    color: #50AFC3;
+}
+.news_top hr {
+    width: 68px;
+    margin: 0 auto;
+    background: #50AFDE;
+    height: 2px;
+    border: none;
+}
+.news_bottom{
+    color: white;
+}
+.news_bottom_part {
+    width: 254px;
+    height: 320px;
+    float: left;
+    margin-left: 19px;
+}
+.news_bottom_part:first-child{
+   margin-left:0px;
+}
+.news_bottom_part img{
+    height: 140px;
+    width: 100%;
+}
+.news_bottom_part_bottom {
+    height: 180px;
+    width: 100%;
+    background: #50AFDE;
+    margin-top: -4px;
+    line-height: 18px;
+}
+.news_bottom_part_bottom h2{
+        padding-top: 9px;
+        padding-left: 25px;
+    }
+.news_bottom_part_bottom span{
+    padding-left:25px;
+}
+.news_bottom_part_bottom p{
+    padding-left:25px;
+}
+.news_bottom_part_bottom button {
+    margin-left: 25px;
+    color: white;
+    border: 1px solid white;
+    padding: 7px;
+    background: #50AFDE;
+    margin-top: 10px;
+    border-width: 2px;
+    border-radius: 3px;
+    padding-left: 20px;
+}
+
+
+.row5{
+height: 400px;
+width: 100%;
+background: white;
+}
+.ser_section mid{}
+.ser_section_top{
+    padding: 28px 0px 19px 0px;
+      text-align: center;
+}
+.ser_section_top h2{
+    color: #50AFC3;
+        letter-spacing: 3px;
+        font-size: 28px;
+        font-weight: 11;
+}
+.ser_section_top p{
+    padding-bottom: 16px;
+    line-height: 21px;
+    color: #50AFC3;
+}
+.ser_section_top hr{
+    width: 68px;
+    margin: 0 auto;
+    background: #50AFDE;
+    height: 2px;
+    border: none;
+}
+.ser_section_bottom{}
+.ser_section_bottom_left{
+    width: 50%;
+    float: left;
+}
+.ser_section_bottom_left_part{}
+.img_part{
+    width: 30%;
+    float: left;
+}
+.img_part img{
+    height: 50px;
+     
+     
+} 
+.dis_part {
+    width: 70%;
+    float: left;
+    color: #50AFC3;
+    padding-bottom: 22px;
+}
+.dis_part h4{}
+.dis_part p{}
+.ser_section_bottom_right{
+    width: 50%;
+    float: left;
+}
+.ser_section_bottom_right_part{}
+
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+.{}
+
+
